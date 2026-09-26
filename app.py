@@ -1,4 +1,4 @@
-import ossss
+import osss
 import pandas as pd
 import streamlit as st
 
