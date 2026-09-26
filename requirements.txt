@@ -1,0 +1,14 @@
+agno
+agno
+google-genai
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+openpyxl
+python-dotenv
+sqlalchemy
+
