@@ -1,5 +1,5 @@
 import os
-import pandas as pdddd
+import pandas as pddd
 import streamlit as st
 
 from core.pipeline import (
