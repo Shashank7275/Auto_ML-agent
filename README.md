@@ -31,8 +31,9 @@ https://github.com/Shashank7275/Auto_ML-agent
 
 ### 1. AutoML Agent — Dataset Upload
 
-![Agentic AutoML AI - Dataset Upload](<img width="1920" height="1080" alt="Screenshot (318)" src="https://github.com/user-attachments/assets/81c5f3ae-b9ff-48fd-baee-b2f1e9a83517" />
-)
+![Agentic AutoML AI - Dataset Upload]
+(<img width="1920" height="1080" alt="Screenshot (318)" src="https://github.com/user-attachments/assets/81c5f3ae-b9ff-48fd-baee-b2f1e9a83517" />)
+
 
 ### 2. AutoML Agent — Workflow / Results
 
