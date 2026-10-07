@@ -16,17 +16,6 @@ https://auto-ml-agent.onrender.com
 https://github.com/Shashank7275/Auto_ML-agent
 
 
-## 🖥️ Application Screenshots
-
-### 1. AutoML Agent — Dataset Upload
-
-![Agentic AutoML AI - Dataset Upload](assets/Screenshot-317.png)
-
-### 2. AutoML Agent — Workflow / Results
-
-![Agentic AutoML AI - Workflow](assets/Screenshot-318.png)
-
----
 
 ## 🧠 What is Agentic AutoML AI?
 
