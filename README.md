@@ -3,7 +3,7 @@
 > An AI-powered AutoML application that turns an uploaded tabular dataset into an end-to-end machine-learning workflow — from data understanding and cleaning to
 > preprocessing, model selection, evaluation, prediction, and an AI-generated explanation.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-success?style=for-the-badge)](https://auto-ml-agent.onrender.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/Shashank7275/Auto_ML-agent)
 
 ---
