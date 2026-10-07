@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (318)" src="https://github.com/user-attachments/assets/81c5f3ae-b9ff-48fd-baee-b2f1e9a83517" />
 # 🤖 Agentic AutoML AI
 
 > An AI-powered AutoML application that turns an uploaded tabular dataset into an end-to-end machine-learning workflow — from data understanding and cleaning to preprocessing, model selection, evaluation, prediction, and an AI-generated explanation.
